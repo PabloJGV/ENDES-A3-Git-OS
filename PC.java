@@ -6,6 +6,8 @@ public class PC {
 		System.out.println("Esto es una prueba");
 		
 		System.out.println("Esta es la modificación, hola mundo");
+
+		System.out.println("Linea Lorenzo");
 	}
 
 }

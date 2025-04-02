@@ -8,6 +8,8 @@ public class PC {
 		System.out.println("Esta es la modificación, hola mundo");
 
 		System.out.println("Linea Lorenzo");
+                   
+                System.out.println("Linea de Danny Daniel :)")
 	}
 
 }
